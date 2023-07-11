@@ -8,6 +8,7 @@ This is my personal portfolio, built with [Create React App](https://create-reac
 * HTML5
 * CSS3
 * JavaScript (ES6)
+* Tailwindcss
 
 ## Features
 
